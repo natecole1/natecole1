@@ -26,14 +26,10 @@ I'm a frontend specialist working in the JavaScript ecosystem to build the next 
 <img align="left" alt="Git" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Tailwind" width="40px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="NodeJS" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Npm" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" />
 <img align="left" alt="AWS" width="40px" height="40px" style="padding-right:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-<img align="left" alt="Appwrite" width="40px" height="40px" style="padding-right:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" />
 <img align="left" alt="Docker" width="40px" height="40px" style="padding-right:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Graphql" width="40px" height="40px" style="padding-right:15px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
-<img align="left" alt="Jest" width="40px" height="40px" style="padding-right:15px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 <img align="left" alt="Playwright" width="40px" height="40px" style="padding-right:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
-<img align="left" alt="Playwright" width="40px" height="40px" style="padding-right:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" />
+
                                     
 
 <br />
