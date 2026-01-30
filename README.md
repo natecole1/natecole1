@@ -1,5 +1,7 @@
 <img width="1365" height="460" alt="Github_banner" src="https://github.com/user-attachments/assets/0de8da10-ee92-4558-b03f-3b8446823480" />
 
+<p></p>
+
 <p align="left">
       <a href="https://natecole.vercel.app">
          <img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-CE4630?style=for-the-badge">
