@@ -15,7 +15,7 @@
    </p>
 
 ## About Me
-I'm a frontend engineer, who is fullstack capable, working to build captivating user-facing products that provide value to customers. My insatiable curiosity for how things work drives my commitment to building and shipping high-quality products to end users. When I'm not coding, I love listening to interesting technical, and non-technical podcasts. I also enjoy the exploration of world cultures through cuisine. Fun fact about me: I can't get enough <a href="https://motogp.com">Motogp</a>!
+I'm a frontend engineer, working to build captivating user-facing products that provide value to customers. My insatiable curiosity for how things work drives my commitment to building and shipping high-quality products to end-users. When I'm not coding, I love listening to interesting technical, and non-technical podcasts. I also enjoy the exploration of world cultures through cuisine. Fun fact about me: I can't get enough <a href="https://motogp.com">Motogp</a>!
 
 
 ## 🧰 Languages and Tools
